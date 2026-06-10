@@ -1,6 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 
-[![Github](https://img.shields.io/github/followers/marizombie?label=Follow&style=social)](https://github.com/marizombie)
+### I am a Software Engineer with 10 years of experience. 
+Helping non-tech businesses use AI where it makes sense and automating the rest.
+
+Find me at [greatthings.dev](https://greatthings.dev/) to collaborate.
+
+## Building:
+
+[yellowcrab.ai](https://yellowcrab.ai/) - AI agent ready in 5 minutes for your messenger, ready to work 24/7
+
+[howlaunch.com](https://howlaunch.com/) - Everything to launch project for first-time founders 
+
+[planami.app](https://planami.app/) - Calm digital planner helping see wins on a way to big goals
+
+[macliphistory.com](https://macliphistory.com/) - Free macOS clipboard history tool
+
+
+## Socials:
+
+<a href="https://www.linkedin.com/in/marynaklokova" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+X / Threads / Instagram: @maryna_klokova
+
+
+[![Github](https://img.shields.io/github/followers/marizombie?label=Follow%20on%20GitHub&style=social)](https://github.com/marizombie)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marizombie&theme=moonlight)
 
