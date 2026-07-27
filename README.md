@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### I am a Software Engineer with 10 years of experience. 
+Love building own projects.
 Helping non-tech businesses use AI where it makes sense and automating the rest.
 
 Find me at [greatthings.dev](https://greatthings.dev/) to collaborate.
@@ -25,9 +26,9 @@ X / Threads / Instagram: @maryna_klokova
 
 [![Github](https://img.shields.io/github/followers/marizombie?label=Follow%20on%20GitHub&style=social)](https://github.com/marizombie)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marizombie&theme=moonlight)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marizombie&theme=moonlight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marizombie&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marizombie&theme=moonlight) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marizombie&theme=moonlight)
 
 <!--
