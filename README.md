@@ -8,6 +8,8 @@ Find me at [greatthings.dev](https://greatthings.dev/) to collaborate.
 
 ## Building:
 
+[screenrecords.app](https://screenrecords.app/) - native macOS screen recorder with editor, MCP for AI edits, teleprompter, captions, image and text overlay, auto-zooms on video and more enhancements
+
 [yellowcrab.ai](https://yellowcrab.ai/) - AI agent ready in 5 minutes for your messenger, ready to work 24/7
 
 [howlaunch.com](https://howlaunch.com/) - Everything to launch project for first-time founders 
