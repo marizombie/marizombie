@@ -16,7 +16,7 @@ Find me at [greatthings.dev](https://greatthings.dev/) to collaborate.
 
 [planami.app](https://planami.app/) - Calm digital planner helping see wins on a way to big goals
 
-[macliphistory.com](https://macliphistory.com/) - Free macOS clipboard history tool
+[macliphistory.com](https://macliphistory.com/) - Free opensource macOS clipboard history tool
 
 
 ## Socials:
